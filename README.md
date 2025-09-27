@@ -6,9 +6,9 @@ Je développe des solutions Python orientées automatisation, IA modulaire et in
 ## 🔧 Compétences techniques
 
 - **Python avancé** : agents IA modulaires (LangChain, LangGraph), automatisation de processus
-- **DevOps** : Docker, GitLab CI, Kubernetes, Grafana, Prometheus
+- **DevOps** : Docker, GitLab CI, Grafana, Prometheus
 - **Web & API** : HTML5, CSS3, JS/TS, PHP, SQL, intégration REST
-- **Git & documentation** : adaptation de dépôts externes, commentaires clairs en anglais
+- **Git & documentation** : adaptation de dépôts externes, commentaires clairs
 - **Visualisation & interfaces** : dashboards, outils de suivi qualité, interfaces utilisateurs
 
 ## 📦 Projets en cours
