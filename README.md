@@ -24,7 +24,8 @@ Je développe des solutions Python orientées automatisation, IA modulaire et in
 - Contribuer à des projets open source à fort impact
 - Devenir un acteur du changement dans l’industrie numérique
 
-📫 Contact : via [GitHub Issues](https://github.com/Inertie78/Inertie78/issues) pour toute question ou collaboration
-🔗 CV : disponible sur demande 
+📫 Contact : via [GitHub Issues](https://github.com/Inertie78/Inertie78/issues) pour toute question ou collaboration  
+🔗 CV : disponible sur demande  
 🔗 Portfolio technique : en cours de structuration  
-🌐 GitHub : [github.com/Inertie78](https://github.com/Inertie78)
+🌐 GitHub : [github.com/Inertie78](https://github.com/Inertie78)  
+
