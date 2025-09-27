@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Bienvenue
 
-<!--
-**Inertie78/Inertie78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Christophe, ingénieur HES en systèmes industriels, actuellement en formation MAS RAD.  
+Je développe des solutions Python orientées automatisation, IA modulaire et intégration DevOps.  
+Mon objectif : relier les besoins industriels aux outils numériques performants et durables.
 
-Here are some ideas to get you started:
+## 🔧 Compétences techniques
+- Python avancé (LangChain, LangGraph)
+- DevOps : Docker, GitLab CI, Kubernetes, Grafana, Prometheus
+- Web & API : HTML5, CSS3, JS, PHP, SQL, REST
+- Git : intégration de dépôts externes, documentation claire
+- Visualisation de données, automatisation de processus industriels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Projets en cours
+- Agent IA modulaire pour documentation technique
+- Automatisation de suivi qualité en production
+- Intégration d’un régulateur de tension open source (Goumpf)
+
+## 🎯 Objectifs
+- Appliquer mes compétences dans un environnement cloud éthique et performant
+- Contribuer à des projets open source à fort impact
+- Devenir un acteur du changement dans l’industrie numérique
