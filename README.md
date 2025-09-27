@@ -15,7 +15,7 @@ Je développe des solutions Python orientées automatisation, IA modulaire et in
 
 - 🧠 Agent IA pour documentation technique (LangChain + LangGraph)
 - 🏭 Automatisation du suivi qualité en production industrielle
-- 🔌 Intégration et adaptation d’un régulateur de tension open source ([Goumpf](https://github.com/Inertie78/gitMardi))
+- 🔌 Intégration et adaptation d’un régulateur de tension
 - 📊 Interfaces de visualisation pour données industrielles
 
 ## 🎯 Objectifs
@@ -24,7 +24,7 @@ Je développe des solutions Python orientées automatisation, IA modulaire et in
 - Contribuer à des projets open source à fort impact
 - Devenir un acteur du changement dans l’industrie numérique
 
-📫 Contact : [cdeb@netplus.ch](mailto:cdeb@netplus.ch)  
-🔗 CV : disponible sur demande  
+📫 Contact : via [GitHub Issues](https://github.com/Inertie78/Inertie78/issues) pour toute question ou collaboration
+🔗 CV : disponible sur demande 
 🔗 Portfolio technique : en cours de structuration  
 🌐 GitHub : [github.com/Inertie78](https://github.com/Inertie78)
