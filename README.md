@@ -81,7 +81,7 @@ Adaptation d’un régulateur de tension open source
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![UI](https://img.shields.io/badge/Interface-User%20Interface-lightgrey)  
 
-**Statut** : ![Prototype](https://img.shields.io/badge/Statut-Prototype-orange?logo=git&logoColor=white)
+**Statut** : ![Statut](https://img.shields.io/badge/Statut-Prototype%20en%20test-orange?logo=git&logoColor=white)
 
 ---
 
