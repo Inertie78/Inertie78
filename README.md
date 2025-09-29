@@ -52,7 +52,6 @@ Assistant conversationnel modulaire avec mémoire vectorielle et historique rela
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-black)
 ![PDF](https://img.shields.io/badge/Document-PDF_Parsing-blue)
 ![MultiUser](https://img.shields.io/badge/Usage-Multi--User-green)
-![Statut](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
 
 **Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
 
@@ -62,7 +61,7 @@ Assistant conversationnel modulaire avec mémoire vectorielle et historique rela
 Analyse et visualisation de données météorologiques
 **Fonctionnalités** : traitement de séries temporelles, visualisation, analyse comparative
 **Collaboration** : projet réalisé avec [Guillaume] dans le cadre du MAS RAD  
-**Stack** : Jupyter Notebook, Python, Pandas, Matplotlib
+**Stack** :
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas&logoColor=black)
@@ -75,13 +74,13 @@ Analyse et visualisation de données météorologiques
 Adaptation d’un régulateur de tension open source
 **Fonctionnalités** : interface utilisateur, logique de régulation, adaptation technique
 **Collaboration** : projet réalisé avec [Guillaume] dans le cadre du MAS RAD  
-**Stack** :
+**Stack** : 
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Web-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Web-CSS3-blue?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![UI](https://img.shields.io/badge/Interface-User%20Interface-lightgrey)
-![Collaboration](https://img.shields.io/badge/Collaboration-Guillaume-blueviolet)
+**Collaboration** : ![Collaboration](https://img.shields.io/badge/Collaboration-Guillaume-blueviolet)
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Prototype-orange?logo=git&logoColor=white)
 
 ---
@@ -90,10 +89,11 @@ Adaptation d’un régulateur de tension open source
 Application de gestion budgétaire personnelle  
 **Fonctionnalités** : suivi des dépenses, interface utilisateur, logique métier
 **Collaboration** : projet réalisé avec [Guillaume] dans le cadre du MAS RAD  
-**Stack** :
+**Stack** : 
 ![Java](https://img.shields.io/badge/Java-Application-red?logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)
 ![Finance](https://img.shields.io/badge/Domaine-Finance-green)
+**Collaboration** : ![Collaboration](https://img.shields.io/badge/Collaboration-Guillaume-blueviolet)
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Prototype-orange?logo=git&logoColor=white)
 
 ---
