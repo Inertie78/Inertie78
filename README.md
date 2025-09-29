@@ -77,7 +77,7 @@ Analyse et visualisation avancées de données météorologiques.
 ---
 
 ### 🔌 [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
-Régulateur de tension intelligent pour batteries de secours, optimisant gestion et durée de vie dans un contexte industriel.  
+Régulateur de tension intelligent pour batteries de secours, optimisant gestion et durée de vie.  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
 **Fonctionnalités** : interface utilisateur web, logique de régulation, adaptation technique.  
 *Utilise principalement Python et technologies web (HTML/CSS/JS).*  
