@@ -1,7 +1,6 @@
 # 👋 Bienvenue
 
-Je suis Christophe, ingénieur HES en systèmes industriels, actuellement en formation MAS RAD à la HE-Arc.  
-Je développe des solutions Python orientées automatisation, IA modulaire et intégration DevOps, avec une forte sensibilité aux enjeux industriels et à l’éthique numérique.
+Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en formation MAS RAD à la HE-Arc. Parallèlement, je développe et expérimente des solutions Python orientées automatisation, IA modulaire et intégration DevOps, alliant ainsi mes compétences industrielles à ma passion pour les technologies numériques.
 
 ---
 
