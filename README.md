@@ -65,28 +65,18 @@ Assistant conversationnel modulaire avec mémoire vectorielle et historique rela
 ![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green)  
 ![LangGraph](https://img.shields.io/badge/LangGraph-Workflow_Agents-purple)  
 
----
-
 ### 🗄 Bases de données et stockage vectoriel  
 ![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple)  
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-lightgrey?logo=mariadb&logoColor=blue)  
 
----
-
 ### 🤖 Modèles et intelligence artificielle  
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-black)  
-
----
 
 ### 📄 Traitement documentaire  
 ![PDF](https://img.shields.io/badge/Document-PDF_Parsing-blue)  
 
----
-
 ### 👥 Fonctionnalités utilisateur  
 ![MultiUser](https://img.shields.io/badge/Usage-Multi--User-green)  
-
----
 
 **Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
 
@@ -103,21 +93,17 @@ Analyse et visualisation de données météorologiques
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)  
 
----
-
 ### 📊 Bibliothèques de données et visualisation  
 ![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas&logoColor=black)  
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blue?logo=python&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Library-NumPy-blue?logo=numpy&logoColor=white)  
-
----
 
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
 
 ---
 
 ### 🔌 [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
-Adaptation d’un régulateur de tension open source  
+Régulateur de tension intelligent dédié aux batteries de secours, conçu pour optimiser la gestion et la durée de vie des alimentations de secours dans des environnements industriels.
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : interface utilisateur, logique de régulation, adaptation technique  
 
@@ -128,17 +114,11 @@ Adaptation d’un régulateur de tension open source
 ![HTML5](https://img.shields.io/badge/Web-HTML5-red?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/Web-CSS3-blue?logo=css3&logoColor=white)  
 
----
-
 ### 🐍 Langage de programmation  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 
----
-
 ### 🖥 Interface utilisateur  
 ![UI](https://img.shields.io/badge/Interface-User%20Interface-lightgrey)  
-
----
 
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Prototype%20en%20test-orange?logo=git&logoColor=white)
 
@@ -155,12 +135,8 @@ Application de gestion budgétaire personnelle
 ![Java](https://img.shields.io/badge/Java-Application-red?logo=java&logoColor=white)  
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
 
----
-
 ### 💼 Domaine d'application  
 ![Finance](https://img.shields.io/badge/Domaine-Finance-green)  
-
----
 
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
 
