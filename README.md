@@ -38,7 +38,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ## 📦 Projets techniques
 
-### 🧠 [Agent_IA](https://github.com/Inertie78/portfolio_technique/tree/main/Agent_IA)  
+### 🧠 [Agent_IA](https://github.com/Inertie78/Agent_IA)  
 Assistant conversationnel modulaire avec mémoire vectorielle et historique relationnel  
 **Modules** : `memoria_core`, `sema`  
 **Fonctionnalités** : génération LLM contextualisée, recherche sémantique locale, gestion multi-utilisateurs, indexation de documents PDF, résumé automatique  
