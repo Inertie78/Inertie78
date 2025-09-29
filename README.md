@@ -23,42 +23,28 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green)  
 
----
-
 ### 🐳 Conteneurisation et intégration continue  
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?logo=gitlab&logoColor=white)  
-
----
 
 ### 📊 Monitoring  
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-yellow)  
 ![Grafana](https://img.shields.io/badge/Monitoring-Grafana-orange?logo=grafana&logoColor=white)  
 
----
-
 ### 🔬 Bibliothèques scientifiques  
 ![NumPy](https://img.shields.io/badge/Python_NumPy-Scientific-blue?logo=python&logoColor=white)  
 
----
-
 ### ☕ Interface utilisateur Java  
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
-
----
 
 ### 🌐 Technologies Web  
 ![HTML5](https://img.shields.io/badge/Web-HTML5-red?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/Web-CSS3-blue?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)  
 
----
-
 ### 🗄 Bases de données  
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-lightgrey?logo=mariadb&logoColor=blue)  
 ![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple)  
-
----
 
 ### 🤖 Modèles de langage  
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-black)  
