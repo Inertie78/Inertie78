@@ -6,7 +6,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ## 📚 Sommaire
 
-- [🔧 Stack technique](#-stack-technique)  
+- [🔧 Stack technique globale](#-stack-technique-globale)  
 - [📦 Projets techniques](#-projets-techniques)  
   - [🧠 Agent_IA](#-agent_ia)  
   - [🌡️ StatisticalWeather](#-statisticalweather)  
@@ -17,11 +17,12 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ---
 
-## 🔧 Stack technique
+## 🔧 Stack technique globale
 
 ### 🐍 Langages et frameworks  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green)  
+![LangGraph](https://img.shields.io/badge/LangGraph-Workflow_Agents-purple)  
 
 ### 🐳 Conteneurisation et CI/CD  
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&logoColor=white)  
@@ -33,9 +34,12 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ### 🔬 Bibliothèques scientifiques  
 ![NumPy](https://img.shields.io/badge/Python_NumPy-Scientific-blue?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas&logoColor=black)  
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blue?logo=python&logoColor=white)  
 
-### ☕ Interfaces utilisateur Java  
+### ☕ Interfaces utilisateur  
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
+![UI](https://img.shields.io/badge/Interface-User%20Interface-lightgrey)  
 
 ### 🌐 Technologies Web  
 ![HTML5](https://img.shields.io/badge/Web-HTML5-red?logo=html5&logoColor=white)  
@@ -48,6 +52,8 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ### 🤖 Modèles de langage  
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-black)  
+![PDF](https://img.shields.io/badge/Document-PDF_Parsing-blue)  
+![MultiUser](https://img.shields.io/badge/Usage-Multi--User-green)  
 
 ---
 
@@ -57,50 +63,26 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 Assistant conversationnel modulaire avec mémoire vectorielle et historique relationnel.  
 **Modules** : `memoria_core`, `sema`  
 **Fonctionnalités** : génération LLM contextualisée, recherche sémantique locale, gestion multi-utilisateurs, indexation PDF, résumé automatique.  
-
-#### Stack technique  
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green)  
-![LangGraph](https://img.shields.io/badge/LangGraph-Workflow_Agents-purple)  
-![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple)  
-![MariaDB](https://img.shields.io/badge/Database-MariaDB-lightgrey?logo=mariadb&logoColor=blue)  
-![Ollama](https://img.shields.io/badge/LLM-Ollama-black)  
-![PDF](https://img.shields.io/badge/Document-PDF_Parsing-blue)  
-![MultiUser](https://img.shields.io/badge/Usage-Multi--User-green)  
-
-**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)  
+*Ce projet repose sur la stack technique globale décrite plus haut.*  
+**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
 
 ---
 
 ### 🌡️ [StatisticalWeather](https://github.com/Inertie78/StatisticalWeather)  
 Analyse et visualisation avancées de données météorologiques.  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
-**Fonctionnalités** : traitement séries temporelles, visualisation, analyse comparative.
-
-#### Stack technique  
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blue?logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Library-NumPy-blue?logo=numpy&logoColor=white)  
-
-**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)  
+**Fonctionnalités** : traitement de séries temporelles, visualisation, analyse comparative.  
+*Utilise principalement Python, Jupyter, Pandas et Matplotlib.*  
+**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
 
 ---
 
 ### 🔌 [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
 Régulateur de tension intelligent pour batteries de secours, optimisant gestion et durée de vie dans un contexte industriel.  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
-**Fonctionnalités** : interface utilisateur, logique de régulation, adaptation technique.
-
-#### Stack technique  
-![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/Web-HTML5-red?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/Web-CSS3-blue?logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
-![UI](https://img.shields.io/badge/Interface-User%20Interface-lightgrey)  
-
-**Statut** : ![Prototype en test](https://img.shields.io/badge/Statut-Prototype%20en%20test-orange?logo=git&logoColor=white)  
+**Fonctionnalités** : interface utilisateur web, logique de régulation, adaptation technique.  
+*Utilise principalement Python et technologies web (HTML/CSS/JS).*  
+**Statut** : ![Prototype en test](https://img.shields.io/badge/Statut-Prototype%20en%20test-orange?logo=git&logoColor=white)
 
 ---
 
@@ -108,26 +90,21 @@ Régulateur de tension intelligent pour batteries de secours, optimisant gestion
 Application de gestion budgétaire personnelle.  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
 **Fonctionnalités** : suivi des dépenses, interface utilisateur, logique métier.  
-
-#### Stack technique  
-![Java](https://img.shields.io/badge/Java-Application-red?logo=java&logoColor=white)  
-![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
-![Finance](https://img.shields.io/badge/Domaine-Finance-green)  
-
-**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)  
+*Développé en Java avec interface Swing.*  
+**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
 
 ---
 
 ## 🎯 Objectifs
 
-- Appliquer mes compétences dans un environnement cloud éthique et performant.  
-- Contribuer à des projets open source à fort impact.  
-- Devenir un acteur du changement dans l’industrie numérique.  
+- Appliquer mes compétences dans un environnement cloud éthique et performant  
+- Contribuer à des projets open source à fort impact  
+- Devenir un acteur du changement dans l’industrie numérique  
 
 ---
 
 ## 📫 Contact
 
-- 📬 via [GitHub Issues](https://github.com/Inertie78/Inertie78/issues) pour toute question ou collaboration.  
-- 📄 CV : disponible sur demande.  
-- 🌐 GitHub : [github.com/Inertie78](https://github.com/Inertie78)  
+- 📬 via [GitHub Issues](https://github.com/Inertie78/Inertie78/issues) pour toute question ou collaboration  
+- 📄 CV : disponible sur demande  
+- 🌐 GitHub : [github.com/Inertie78](https://github.com/Inertie78)
