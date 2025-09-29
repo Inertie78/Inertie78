@@ -42,6 +42,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 Assistant conversationnel modulaire avec mémoire vectorielle et historique relationnel  
 **Modules** : `memoria_core`, `sema`  
 **Fonctionnalités** : génération LLM contextualisée, recherche sémantique locale, gestion multi-utilisateurs, indexation de documents PDF, résumé automatique  
+
 **Stack** :  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-AI_Agents-green)  
@@ -60,6 +61,7 @@ Assistant conversationnel modulaire avec mémoire vectorielle et historique rela
 Analyse et visualisation de données météorologiques  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : traitement de séries temporelles, visualisation, analyse comparative  
+
 **Stack** :  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)  
@@ -74,6 +76,7 @@ Analyse et visualisation de données météorologiques
 Adaptation d’un régulateur de tension open source  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : interface utilisateur, logique de régulation, adaptation technique  
+
 **Stack** :  
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/Web-HTML5-red?logo=html5&logoColor=white)  
@@ -89,6 +92,7 @@ Adaptation d’un régulateur de tension open source
 Application de gestion budgétaire personnelle  
 **Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : suivi des dépenses, interface utilisateur, logique métier  
+
 **Stack** :  
 ![Java](https://img.shields.io/badge/Java-Application-red?logo=java&logoColor=white)  
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
