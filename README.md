@@ -58,7 +58,7 @@ Assistant conversationnel modulaire avec mémoire vectorielle et historique rela
 
 ### 🌡️ [StatisticalWeather](https://github.com/Inertie78/StatisticalWeather)  
 Analyse et visualisation de données météorologiques  
-**Collaboration** : projet réalisé avec [Guillaume] dans le cadre du MAS RAD  
+**Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : traitement de séries temporelles, visualisation, analyse comparative  
 **Stack** :  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
@@ -72,7 +72,7 @@ Analyse et visualisation de données météorologiques
 
 ### 🔌 [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
 Adaptation d’un régulateur de tension open source  
-**Collaboration** : projet réalisé avec [Guillaume] dans le cadre du MAS RAD  
+**Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : interface utilisateur, logique de régulation, adaptation technique  
 **Stack** :  
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)  
@@ -87,7 +87,7 @@ Adaptation d’un régulateur de tension open source
 
 ### 💰 [AppBudget](https://github.com/Inertie78/AppBudget)  
 Application de gestion budgétaire personnelle  
-**Collaboration** : projet réalisé avec [Guillaume] dans le cadre du MAS RAD  
+**Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD  
 **Fonctionnalités** : suivi des dépenses, interface utilisateur, logique métier  
 **Stack** :  
 ![Java](https://img.shields.io/badge/Java-Application-red?logo=java&logoColor=white)  
