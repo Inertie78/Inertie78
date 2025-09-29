@@ -66,7 +66,6 @@ Analyse et visualisation de données météorologiques
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas&logoColor=black)  
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blue?logo=python&logoColor=white)  
-![Collaboration](https://img.shields.io/badge/Collaboration-Guillaume-blueviolet)  
 
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
 
@@ -82,7 +81,6 @@ Adaptation d’un régulateur de tension open source
 ![CSS3](https://img.shields.io/badge/Web-CSS3-blue?logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
 ![UI](https://img.shields.io/badge/Interface-User%20Interface-lightgrey)  
-![Collaboration](https://img.shields.io/badge/Collaboration-Guillaume-blueviolet)  
 
 **Statut** : ![Prototype](https://img.shields.io/badge/Statut-Prototype-orange?logo=git&logoColor=white)
 
@@ -96,7 +94,6 @@ Application de gestion budgétaire personnelle
 ![Java](https://img.shields.io/badge/Java-Application-red?logo=java&logoColor=white)  
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
 ![Finance](https://img.shields.io/badge/Domaine-Finance-green)  
-![Collaboration](https://img.shields.io/badge/Collaboration-Guillaume-blueviolet)  
 
 **Statut** : ![Statut](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
 
