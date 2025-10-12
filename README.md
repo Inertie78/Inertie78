@@ -63,7 +63,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 ### 🏗️ [mast_analysis]
 Modélisation d’un mât haubané soumis à des efforts de vent, avec calculs de stabilité, flambage d’Euler et visualisation Python. 
 
-**Fonctionnalités** : Répartition des tensions dans les haubans à deux niveaux, équilibre des forces et des moments (Rx, Ry, Rz), décomposition vectorielle 3D des efforts, vérification du flambage avec coefficient de sécurité, visualisation 2D annotée. 
+**Fonctionnalités** : Répartition des tensions dans les haubans à deux niveaux, équilibre des forces et des moments (Rx, Ry, Rz), décomposition vectorielle 3D des efforts, vérification du flambage avec coefficient de sécurité, visualisation 2D annotée.  
 *Utilise principalement Python, SymPy, NumPy, Matplotlib et Jupyter.*  
 **Statut** : ![Terminé](https://img.shields.io/badge/Statut-Terminé-brightgreen?logo=git&logoColor=white)
 
