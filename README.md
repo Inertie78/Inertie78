@@ -119,8 +119,3 @@ Application de gestion budgétaire personnelle.
 - 📬 via [GitHub Issues](https://github.com/Inertie78/Inertie78/issues) pour toute question ou collaboration  
 - 📄 CV : disponible sur demande  
 - 🌐 GitHub : [github.com/Inertie78](https://github.com/Inertie78)
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Inertie78&show_icons=true&theme=default)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Inertie78&layout=compact)
-
-  
