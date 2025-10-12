@@ -37,6 +37,8 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 ![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas&logoColor=black)  
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blue?logo=python&logoColor=white)  
 ![SymPy](https://img.shields.io/badge/Symbolic-SymPy-green?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)
+
 
 ### ☕ Interfaces utilisateur  
 ![Swing](https://img.shields.io/badge/Java_UI-Swing-blueviolet)  
