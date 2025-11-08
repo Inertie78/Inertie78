@@ -11,7 +11,8 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
   - [🧠 Agent_IA](#-agent_ia)  
   - [🌡️ StatisticalWeather](#-statisticalweather)  
   - [🔌 voltage_regulator](#-voltage_regulator)  
-  - [💰 AppBudget](#-appbudget)  
+  - [💰 AppBudget](#-appbudget)
+  - [🧩 JSONFlow](#-JSONFlow)
 - [🎯 Objectifs](#-objectifs)  
 - [📫 Contact](#-contact)  
 
