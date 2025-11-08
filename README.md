@@ -106,6 +106,15 @@ Application de gestion budgétaire personnelle.
 
 ---
 
+### 🧩 [JSONFlow](https://github.com/Inertie78/JSONFlow)
+
+API REST générique de validation et documentation JSON.
+**Fonctionnalités** : Validation de structures JSON via modèles Pydantic, support des fuseaux horaires dynamiques, génération automatique de documentation Markdown + Swagger.
+*Utilisé pour divers usages : robotique, IoT, ingestion de données métier.*
+**Statut** : ![](https://img.shields.io/badge/Statut‑En%20développement‑yellow?logo=git\&logoColor=black)
+
+---
+
 ## 🎯 Objectifs
 
 - Appliquer mes compétences dans un environnement cloud éthique et performant  
