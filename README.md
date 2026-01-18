@@ -8,7 +8,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 - [🔧 Stack technique globale](#-stack-technique-globale)  
 - [📦 Projets techniques](#-projets-techniques)
-  - [🏗️ mastAnalysis](#-mastAnalysis)   
+  - [🏗️ matAnalysis](#-matAnalysis)  
   - [🧠 Agent_IA](#-agent_ia)  
   - [🌡️ StatisticalWeather](#-statisticalweather)  
   - [🔌 voltage_regulator](#-voltage_regulator)  
@@ -64,7 +64,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ## 📦 Projets techniques
 
-### 🏗️ [mastAnalysis](https://github.com/Inertie78/mastAnalysis)
+### 🏗️ [matAnalysis](https://github.com/Inertie78/matAnalysis)
 Modélisation d’un mât haubané soumis à des efforts de vent, avec calculs de stabilité, flambage d’Euler et visualisation Python. 
 
 **Fonctionnalités** : Répartition des tensions dans les haubans à deux niveaux, équilibre des forces et des moments (Rx, Ry, Rz), décomposition vectorielle 3D des efforts, vérification du flambage avec coefficient de sécurité, visualisation 2D annotée.  
