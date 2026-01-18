@@ -213,9 +213,11 @@ flowchart LR
 
 ## 🎯 Objectifs
 
-- Appliquer mes compétences dans un environnement cloud éthique et performant  
-- Contribuer à des projets open source à fort impact  
-- Devenir un acteur du changement dans l’industrie numérique  
+- Intégrer une équipe R&D où je peux combiner robotique, IA embarquée et développement Python.
+- Concevoir des systèmes autonomes robustes, du prototype à l’intégration industrielle.
+- Développer des architectures logicielles modulaires (WebRTC, WebSockets, agents IA).
+- Contribuer à des projets open source liés à la robotique, l’edge AI ou l’automatisation.
+- Approfondir l’IA embarquée (RL temps réel, perception, contrôle intelligent).
 
 ---
 
