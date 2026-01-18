@@ -8,7 +8,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 - [🔧 Stack technique globale](#-stack-technique-globale)  
 - [📦 Projets techniques](#-projets-techniques)
-  - [🏗️ matAnalysis](#-matanalysis)  
+  - [🏗️ matAnalysis](#%F0%9F%8F%97%EF%B8%8F-matanalysis)
   - [🧠 Agent_IA](#-agent_ia)  
   - [🌡️ StatisticalWeather](#-statisticalweather)  
   - [🔌 voltage_regulator](#-voltage_regulator)  
