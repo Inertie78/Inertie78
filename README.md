@@ -4,19 +4,61 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ---
 
+## 🎯 Ce que je recherche
+
+Je souhaite rejoindre une équipe où je peux combiner :
+
+- robotique ou mécatronique  
+- IA appliquée ou automatisation intelligente  
+- développement Python ou systèmes embarqués  
+- projets concrets avec impact industriel  
+
+Je suis particulièrement motivé par :
+- robotique mobile  
+- systèmes autonomes  
+- edge AI  
+- R&D technique  
+
+---
+
+## 🧩 Compétences clés
+
+- Python (automatisation, IA, API, data)
+- Robotique (cinématique, PID, capteurs, encodeurs)
+- IA (RL, TD3/DQN, agents modulaires)
+- DevOps (Docker, CI/CD GitLab)
+- Web temps réel (WebRTC, WebSockets)
+- Mécanique (modélisation, analyse, conception)
+- Électronique embarquée (Arduino, Raspberry Pi)
+
+---
+
+## 💡 Pourquoi moi ?
+
+Je combine une formation d’ingénieur mécanique avec une expertise moderne en IA, Python, robotique et DevOps.  
+J’aime comprendre un système de bout en bout : mécanique, électronique, logiciel, IA.  
+Je suis autonome, curieux, et j’adore construire des solutions complètes, du prototype au système fonctionnel.
+
+---
+
 ## 📚 Sommaire
 
 - [🔧 Stack technique globale](#-stack-technique-globale)  
 - [📦 Projets techniques](#-projets-techniques)
-  - [🏗️ matAnalysis](#%EF%B8%8F-matanalysis)
-  - [🧠 Agent_IA](#-agent_ia)  
-  - [🌡️ StatisticalWeather](#-statisticalweather)  
-  - [🔌 voltage_regulator](#-voltage_regulator)  
-  - [💰 AppBudget](#-appbudget)
-  - [🧩 JSONFlow](#-JSONFlow)j
-  - [📱 smartphone_datas](#-smartphone_datas)
+  - [🧠 IA & Agents intelligents](#-ia--agents-intelligents)
+    - [Agent_IA](#agent_ia)
+    - [JSONFlow](#jsonflow)
+  - [🐍 Python scientifique & modélisation](#-python-scientifique--modélisation)
+    - [matAnalysis](#matanalysis)
+    - [StatisticalWeather](#statisticalweather)
+  - [🌐 Web, IoT & interfaces](#-web-iot--interfaces)
+    - [smartphone_datas](#smartphone_datas)
+    - [voltage_regulator](#voltage_regulator)
+    - [AppBudget](#appbudget)
+  - [🤖 Robotique & systèmes embarqués](#-robotique--systèmes-embarqués)
+    - [robot_omni](#robot_omni)
 - [🎯 Objectifs](#-objectifs)  
-- [📫 Contact](#-contact)  
+- [📫 Contact](#-contact)
 
 ---
 
@@ -65,66 +107,101 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ## 📦 Projets techniques
 
-### 🏗️ [matAnalysis](https://github.com/Inertie78/matAnalysis)
-Modélisation d’un mât haubané soumis à des efforts de vent, avec calculs de stabilité, flambage d’Euler et visualisation Python. 
+---
 
-**Fonctionnalités** : Répartition des tensions dans les haubans à deux niveaux, équilibre des forces et des moments (Rx, Ry, Rz), décomposition vectorielle 3D des efforts, vérification du flambage avec coefficient de sécurité, visualisation 2D annotée.  
-*Utilise principalement Python, SymPy, NumPy, Matplotlib et Jupyter.*  
-**Statut** : ![Terminé](https://img.shields.io/badge/Statut-Terminé-brightgreen?logo=git&logoColor=white)
+# 🧠 IA & Agents intelligents
+
+### [Agent_IA](https://github.com/Inertie78/Agent_IA)  
+Assistant conversationnel modulaire avec mémoire vectorielle, recherche sémantique locale, gestion multi-utilisateurs et indexation PDF.  
+**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow)
+
+### [JSONFlow](https://github.com/Inertie78/JSONFlow)  
+API REST générique pour validation JSON, documentation automatique et gestion avancée des fuseaux horaires.  
+**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green)
 
 ---
 
-### 🧠 [Agent_IA](https://github.com/Inertie78/Agent_IA)  
-Assistant conversationnel modulaire avec mémoire vectorielle et historique relationnel.  
-**Fonctionnalités** : génération LLM contextualisée, recherche sémantique locale, gestion multi-utilisateurs, indexation PDF, résumé automatique.  
-*Ce projet repose sur la stack technique globale décrite plus haut.*  
-**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
+# 🐍 Python scientifique & modélisation
+
+### [matAnalysis](https://github.com/Inertie78/matAnalysis)  
+Modélisation complète d’un mât haubané : stabilité, flambage, efforts 3D, visualisation.  
+**Statut** : ![Terminé](https://img.shields.io/badge/Statut-Terminé-brightgreen)
+
+### [StatisticalWeather](https://github.com/Inertie78/StatisticalWeather)  
+Analyse statistique et visualisation de données météo (projet MAS RAD).  
+**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green)
 
 ---
 
-### 🌡️ [StatisticalWeather](https://github.com/Inertie78/StatisticalWeather)  
-Analyse et visualisation avancées de données météorologiques.  
-**Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
-**Fonctionnalités** : traitement de séries temporelles, visualisation, analyse comparative.  
-*Utilise principalement Python, Jupyter, Pandas et Matplotlib.*  
-**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
+# 🌐 Web, IoT & interfaces
+
+### [smartphone_datas](https://github.com/Inertie78/smartphone_datas)  
+Interface web temps réel pour capteurs Android (orientation, GPS, boussole, batterie, etc.).  
+**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow)
+
+### [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
+Régulateur de tension intelligent avec interface web (projet MAS RAD).  
+**Statut** : ![Prototype](https://img.shields.io/badge/Statut-Prototype-orange)
+
+### [AppBudget](https://github.com/Inertie78/AppBudget)  
+Application Java Swing de gestion budgétaire.  
+**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green)
 
 ---
 
-### 🔌 [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
-Régulateur de tension intelligent pour batteries de secours, optimisant gestion et durée de vie.  
-**Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
-**Fonctionnalités** : interface utilisateur web, logique de régulation, adaptation technique.  
-*Utilise principalement Python et technologies web (HTML/CSS/JS).*  
-**Statut** : ![Prototype en test](https://img.shields.io/badge/Statut-Prototype%20en%20test-orange?logo=git&logoColor=white)
+# 🤖 Robotique & systèmes embarqués
 
----
+### [robot_omni](https://github.com/Inertie78/robot_omni)  
+Plateforme robotique omni-directionnelle complète :  
+- IA TD3/DQN en temps réel  
+- WebRTC faible latence  
+- WebSockets (CTRL, encodeurs, radar, IA)  
+- Arduino Mega (PID, moteurs, watchdog)  
+- Radar ultrason + encodeurs quadrature  
+**Statut** : ![En développement avancé](https://img.shields.io/badge/Statut-En%20développement%20avancé-blue)
 
-### 💰 [AppBudget](https://github.com/Inertie78/AppBudget)  
-Application de gestion budgétaire personnelle.  
-**Collaboration** : projet réalisé avec Guillaume dans le cadre du MAS RAD.  
-**Fonctionnalités** : suivi des dépenses, interface utilisateur, logique métier.  
-*Développé en Java avec interface Swing.*  
-**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
+#### Schéma d’architecture du robot
 
----
+```mermaid
+flowchart LR
+    subgraph Cockpit_Web["🌐 Cockpit Web (navigateur)"]
+        UI[Contrôles OMNI<br/>Affichage vidéo<br/>Dashboard IA]
+    end
 
-### 🧩 [JSONFlow](https://github.com/Inertie78/JSONFlow)
+    subgraph RPi["🍓 Raspberry Pi (server)"]
+        WS[Serveur WebSockets<br/>(/ws-ctrl, /ws-enc,<br/>/ws-radar, /ws-ai)]
+        RTC[Serveur WebRTC<br/>(aiortc + GStreamer)]
+        AI[IA TD3/DQN<br/>Boucle RL temps réel]
+        UART[UART<br/>/dev/ttyAMA0]
+        RADAR[Driver radar<br/>HC-SR04]
+        CAM[Caméra CSI<br/>libcamera]
+    end
 
-API REST générique de validation et documentation JSON.
-**Fonctionnalités** : Validation de structures JSON via modèles Pydantic, support des fuseaux horaires dynamiques, génération automatique de documentation Markdown + Swagger.
-*Utilisé pour divers usages : robotique, IoT, ingestion de données métier.*  
-**Statut** : ![Académique](https://img.shields.io/badge/Statut-Académique-green?logo=git&logoColor=white)
+    subgraph Arduino["🧩 Arduino Mega"]
+        PID[Contrôle moteurs<br/>PID vitesse]
+        ENC[Encodeurs<br/>quadrature]
+        WD[Watchdog<br/>sécurité]
+        MOT[Moteurs<br/>+ roues omni]
+        RAD[Entrée radar<br/>distance]
+    end
 
----
+    UI <-- WebRTC vidéo --> RTC
+    UI <-- WebSockets CTRL/IA --> WS
 
-### 📱 [smartphone_datas](https://github.com/Inertie78/smartphone_datas)
+    WS <-- UART --> UART
+    UART <-- Série --> PID
 
-Interface web permettant d’afficher en temps réel les données issues des capteurs d’un smartphone Android.  
-**Fonctionnalités** : orientation 2D/3D, GPS, boussole, batterie, microphone, caméra, réseau, horloge locale, transmission via WebSocket, affichage dynamique dans un cockpit HTML/JS.  
-*Architecture : page capteurs Android → WebSocket → cockpit HTML/JS → serveur Node.js (Render).*  
-**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
+    RADAR --> WS
+    RADAR --> RAD
 
+    ENC --> WS
+    ENC --> PID
+
+    PID --> MOT
+    MOT --> ENC
+
+    AI <--> WS
+```
 ---
 
 ## 🎯 Objectifs
