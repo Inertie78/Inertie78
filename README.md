@@ -8,7 +8,7 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 - [🔧 Stack technique globale](#-stack-technique-globale)  
 - [📦 Projets techniques](#-projets-techniques)
-  - [🏗️ matAnalysis](#-matAnalysis)  
+  - [🏗️ matAnalysis](#-matanalysis)  
   - [🧠 Agent_IA](#-agent_ia)  
   - [🌡️ StatisticalWeather](#-statisticalweather)  
   - [🔌 voltage_regulator](#-voltage_regulator)  
@@ -120,9 +120,9 @@ API REST générique de validation et documentation JSON.
 
 ### 📱 [smartphone_datas](https://github.com/Inertie78/smartphone_datas)
 
-Extraction, nettoyage et structuration de données issues de smartphones pour analyses statistiques et visualisations.  
-**Fonctionnalités** : parsing de fichiers bruts, normalisation des formats, génération de tableaux exploitables, export des données traitées.  
-*Utilise principalement Python, Pandas et Matplotlib.*  
+Interface web permettant d’afficher en temps réel les données issues des capteurs d’un smartphone Android.  
+**Fonctionnalités** : orientation 2D/3D, GPS, boussole, batterie, microphone, caméra, réseau, horloge locale, transmission via WebSocket, affichage dynamique dans un cockpit HTML/JS.  
+*Architecture : page capteurs Android → WebSocket → cockpit HTML/JS → serveur Node.js (Render).*  
 **Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow?logo=git&logoColor=black)
 
 ---
