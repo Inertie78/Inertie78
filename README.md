@@ -137,7 +137,7 @@ Analyse statistique et visualisation de données météo (projet MAS RAD).
 
 ### [smartphone_datas](https://github.com/Inertie78/smartphone_datas)  
 Interface web temps réel pour capteurs Android (orientation, GPS, boussole, batterie, etc.).  
-**Statut** : ![En construction](https://img.shields.io/badge/Statut-En%20construction-yellow)
+**Statut** : ![Académique](https://img.shields.io/badge/Statut-En%20construction-yellow)
 
 ### [voltage_regulator](https://github.com/Inertie78/voltage_regulator)  
 Régulateur de tension intelligent avec interface web (projet MAS RAD).  
