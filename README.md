@@ -164,42 +164,49 @@ Plateforme robotique omni-directionnelle complète :
 
 ```mermaid
 flowchart LR
-    subgraph Cockpit_Web["🌐 Cockpit Web (navigateur)"]
-        UI[Contrôles OMNI<br/>Affichage vidéo<br/>Dashboard IA]
+
+    subgraph Cockpit_Web["🌐 Cockpit Web"]
+        UI[Interface utilisateur\nCommandes OMNI\nAffichage vidéo\nDashboard IA]
     end
 
-    subgraph RPi["🍓 Raspberry Pi (server)"]
-        WS[Serveur WebSockets<br/>(/ws-ctrl, /ws-enc,<br/>/ws-radar, /ws-ai)]
-        RTC[Serveur WebRTC<br/>(aiortc + GStreamer)]
-        AI[IA TD3/DQN<br/>Boucle RL temps réel]
-        UART[UART<br/>/dev/ttyAMA0]
-        RADAR[Driver radar<br/>HC-SR04]
-        CAM[Caméra CSI<br/>libcamera]
+    subgraph RPi["🍓 Raspberry Pi - Serveur"]
+        WS[Serveur WebSockets\nws-ctrl / ws-enc / ws-radar / ws-ai]
+        RTC[Serveur WebRTC\naiortc + GStreamer]
+        AI[IA TD3/DQN\nBoucle RL temps réel]
+        UART[UART /dev/ttyAMA0]
+        RADAR[Driver radar HC-SR04]
+        CAM[Caméra CSI - libcamera]
     end
 
     subgraph Arduino["🧩 Arduino Mega"]
-        PID[Contrôle moteurs<br/>PID vitesse]
-        ENC[Encodeurs<br/>quadrature]
-        WD[Watchdog<br/>sécurité]
-        MOT[Moteurs<br/>+ roues omni]
-        RAD[Entrée radar<br/>distance]
+        PID[Contrôle moteurs\nPID vitesse]
+        ENC[Encodeurs quadrature]
+        WD[Watchdog sécurité]
+        MOT[Moteurs + roues omni]
+        RAD[Entrée radar distance]
     end
 
-    UI <-- WebRTC vidéo --> RTC
-    UI <-- WebSockets CTRL/IA --> WS
+    %% Connexions Cockpit <-> Raspberry Pi
+    UI <-- "WebRTC vidéo" --> RTC
+    UI <-- "WebSockets CTRL / IA" --> WS
 
-    WS <-- UART --> UART
-    UART <-- Série --> PID
+    %% Connexions Raspberry Pi <-> Arduino
+    WS <-- "UART" --> UART
+    UART <-- "Série" --> PID
 
+    %% Capteurs vers Raspberry Pi
     RADAR --> WS
     RADAR --> RAD
 
+    %% Encodeurs
     ENC --> WS
     ENC --> PID
 
+    %% Boucle moteur
     PID --> MOT
     MOT --> ENC
 
+    %% IA <-> WebSockets
     AI <--> WS
 ```
 ---
