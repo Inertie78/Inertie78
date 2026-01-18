@@ -160,6 +160,12 @@ Plateforme robotique omni-directionnelle complète :
 - Radar ultrason + encodeurs quadrature  
 **Statut** : ![En développement avancé](https://img.shields.io/badge/Statut-En%20développement%20avancé-blue)
 
+#### 📸 Prototype du robot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Inertie78/robot_omni/main/picture/robot_photo.jpg" width="450">
+</div>
+
 #### Schéma d’architecture du robot
 
 ```mermaid
