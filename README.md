@@ -163,7 +163,7 @@ Plateforme robotique omni-directionnelle complète :
 #### 📸 Prototype du robot
 
 <div align="center">
-  <img src="https://github.com/Inertie78/robot_omni/blob/main/picture/omni.png" width="450">
+  <img src="https://github.com/Inertie78/robot_omni/blob/main/picture/omni.png" width="250">
 </div>
 
 #### Schéma d’architecture du robot
