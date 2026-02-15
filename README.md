@@ -6,18 +6,14 @@ Je suis Christophe, ingénieur mécanique de formation (HES) et actuellement en 
 
 ## 🎯 Ce que je recherche
 
-Je souhaite rejoindre une équipe où je peux combiner :
+Je souhaite rejoindre une équipe technique où je peux contribuer à des projets concrets mêlant ingénierie, développement et innovation.
+J’apprécie particulièrement les environnements où l’on conçoit, analyse, développe et améliore des systèmes complexes, qu’ils soient mécaniques, numériques ou hybrides.
 
-- robotique ou mécatronique  
-- IA appliquée ou automatisation intelligente  
-- développement Python ou systèmes embarqués  
-- projets concrets avec impact industriel  
-
-Je suis particulièrement motivé par :
-- robotique mobile  
-- systèmes autonomes  
-- edge AI  
-- R&D technique  
+Je suis motivé par les projets qui demandent :
+- compréhension globale d’un système (mécanique, électronique, logiciel)
+- résolution de problèmes techniques
+- développement d’outils ou d’automatisations utiles
+- innovation pragmatique avec impact industriel
 
 ---
 
